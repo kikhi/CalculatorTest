@@ -7,13 +7,13 @@ https://github.com/kikhi/Calculator
 
 ## Get Started 🚀
 
-_To work with the unit testing, clone this repository for develop the project_
+_To work with the unit testing, clone this repository for develop the [project](https://github.com/kikhi/Calculator)_
 
 ## Pre-requisitos and builded with 📋 🛠️
 
 _This project use the .net microsoft development tools_
 
-* [dotnet] (https://dotnet.microsoft.com/en-us/) - Version 6.0.1
+* [dotnet](https://dotnet.microsoft.com/en-us/) - Version 6.0.1
 * [vs code](https://code.visualstudio.com/) - For coding
 * [git](https://git-scm.com/) - For branch version
 
